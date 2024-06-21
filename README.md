@@ -159,7 +159,9 @@ A team developing a web application can use GitHub for version control, issue tr
 References:
 
 Ghogen (2022) Visual studio product family documentation, Microsoft Learn. Available at: https://learn.microsoft.com/en-us/visualstudio/?view=vs-2022 (Accessed: 21 June 2024). 
+
 GitHub.com help documentation (2022) GitHub Docs. Available at: https://docs.github.com/en (Accessed: 21 June 2024). 
+
 GitHub actions documentation (2022) GitHub Docs. Available at: https://docs.github.com/en/actions (Accessed: 21 June 2024).  
 
 Submission Guidelines:
